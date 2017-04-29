@@ -127,7 +127,7 @@ img:hover {
 /* home section */
 
 #home {
-    background: url('../images/home-bg.jpg')no-repeat;
+    background: url('../images/class.JPG')no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 600px;
@@ -137,12 +137,12 @@ img:hover {
 
 #home h1 {
     color: #f2af00;
-    font-weight: 300;
+    font-weight: 1000;
     padding-bottom: 10px;
 }
 
 #home h2 {
-    line-height: 10px;
+    color: #dc5034
 }
 
 #home .btn {
