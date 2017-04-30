@@ -125,6 +125,11 @@ img {
 
 /* home section */
 
+.name {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 20px
+}
+
 #home {
     background: url('../images/class.JPG')no-repeat;
     background-size: cover;
@@ -135,13 +140,13 @@ img {
 }
 
 #home h1 {
-    color: #f2af00;
+    color: #dc5034;
     font-weight: 1000;
     padding-bottom: 10px;
 }
 
 #home h2 {
-    color: #dc5034
+    text-align: left
 }
 
 #home .btn {
