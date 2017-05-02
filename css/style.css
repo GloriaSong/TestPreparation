@@ -447,6 +447,32 @@ footer span {
     color: #fff;
 }
 
+#button .btn {
+    background: rgba(255, 255, 255, 0.6);
+    display: block;
+    /* change this from inline-block */
+    margin: 0 auto;
+    / border: 2px solid #444;
+    border-radius: 0px;
+    color: #444;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 14px;
+    width: 200px;
+    padding: 20px;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+}
+
+#button .btn:hover {
+    background: #dc5034;
+    border-color: transparent;
+    color: #fff;
+}
+
 
 /* media 960 */
 
